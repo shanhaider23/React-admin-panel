@@ -1,0 +1,46 @@
+@use "../../scss/abstracts/" as *;
+
+.login {
+  margin-top: 20%;
+  margin-left: 40%;
+}
+.form-group-name {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  .input-name {
+    margin-left: 40px;
+    padding: 5px;
+    border: 1px solid rgb(60, 66, 65);
+    border-radius: 5px;
+  }
+}
+.form-group-email {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  .input-email {
+    margin-left: 41px;
+    padding: 5px;
+    border: 1px solid rgb(60, 66, 65);
+    border-radius: 5px;
+  }
+}
+.form-group-password {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  .input-password {
+    margin-left: 5px;
+    padding: 5px;
+    border: 1px solid rgb(60, 66, 65);
+    border-radius: 5px;
+  }
+}
+.input-button {
+  background-color: $orange;
+  padding: 5px;
+  margin-top: 20px;
+  border-radius: 5px;
+  &:hover {
+    background-color: rgb(140, 163, 159);
+    cursor: pointer;
+  }
+}
