@@ -1,6 +1,9 @@
-to access the admin panel 
-name: any
-email: admin@admin.com
-password: admin
 
-![image](https://user-images.githubusercontent.com/75579156/165308928-df72b110-bf37-458f-95e1-82446e987bb3.png)
+
+
+# Access the admin panel 
+### name: any
+### email: admin@admin.com
+### password: admin
+
+![Skærmbillede 2022-04-26 152033](https://user-images.githubusercontent.com/75579156/165309304-2c6b9d3f-4876-4ddb-95c2-2e84cb786315.jpg)
